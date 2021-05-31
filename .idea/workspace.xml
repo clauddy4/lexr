@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1c5629-6941-4d85-a332-93c07b61a6e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lexr_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lexr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lexr.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lexr/Lexer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lexr/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lexr/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lexr/Mode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lexr/Type.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lexr/TypeGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lexer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
